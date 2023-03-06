@@ -1,0 +1,10 @@
+#obsidian files
+.obsidian/
+.trash
+/Context
+
+#hugo files
+/public
+/resources
+/node_modules
+
