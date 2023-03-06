@@ -24,7 +24,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 January 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark #auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -77,9 +77,6 @@ params:
     - name: github
       url: "https://github.com/AlessioMobilia/AlessioMobilia.github.io"
 
-  analytics:
-    google:
-      SiteVerificationTag: "G-JPGNHJXMRV"
 
   cover:
     hidden: true # hide everywhere but not in structured data

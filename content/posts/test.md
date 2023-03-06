@@ -6,4 +6,7 @@ categories: [development, testing]
 tags: [test, hugo, markdown]
 ---
 
-ok this is a test
+this is a test
+
+![test](/images/Test/20230306111358.png)
+
