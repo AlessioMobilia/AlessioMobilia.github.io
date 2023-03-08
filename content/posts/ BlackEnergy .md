@@ -7,8 +7,9 @@ categories:
 tags:
   - Writeup
   - Walkthrough
-  - Mobile
-  - Android
+  - Volatility
+  - Windows
+  - Memory
   - CyberDefence
 ---
 
